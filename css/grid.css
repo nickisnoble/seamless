@@ -1,0 +1,39 @@
+
+
+
+/* ===========================================================================
+    Seamless
+   =========================================================================== */
+
+ /* Widths */
+
+ .one_whole  { width: 100%;    }
+ .one_half   { width: 50%;     }
+ .one_third  { width: 33.333%; }
+ .one_fourth { width: 25%;     }
+ .one_fifth  { width: 20%;     }
+
+.block, .blk{
+    float: left;
+    display: block;
+    min-height: 100%;
+}
+.block-padded, .blk-pd{
+    padding: 2em;
+}
+.test{
+    border: 10px solid red;
+}
+
+/* Mobile */
+
+@media screen and (max-width: 480px){
+    .one_whole,
+    .one_half,
+    .one_third,
+    .one_fourth,
+    .one_fifth{
+        width: 100%;
+    }
+}
+

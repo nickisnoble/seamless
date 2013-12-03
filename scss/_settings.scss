@@ -2,7 +2,16 @@
 // =======================
 // Seamless
 // =======================
-$one: 8.333333%; // 100/12  // the width of one column
+$one: 100% / 12.1;  // the width of one column 
+// 12.1 works better than 12 for some reason... lets explore:
+
+// 100 / 12   = 8.3333333
+	// 8.3333333 * 12 = 100.8
+
+// 100 / 12.1 = 8.26446281
+	// 8.2644628 * 12 = 99.1735537
+
+// ...fuck it, it works :P
 
 
 // =======================

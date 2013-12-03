@@ -434,76 +434,76 @@ table {
   padding: 0; }
 
 .one {
-  width: 8.33333%; }
+  width: 8.26446%; }
 
 .two {
-  width: 16.66667%; }
+  width: 16.52893%; }
 
 .three {
-  width: 25.0%; }
+  width: 24.79339%; }
 
 .four {
-  width: 33.33333%; }
+  width: 33.05785%; }
 
 .five {
-  width: 41.66666%; }
+  width: 41.32231%; }
 
 .six {
-  width: 50.0%; }
+  width: 49.58678%; }
 
 .seven {
-  width: 58.33333%; }
+  width: 57.85124%; }
 
 .eight {
-  width: 66.66666%; }
+  width: 66.1157%; }
 
 .nine {
-  width: 75.0%; }
+  width: 74.38017%; }
 
 .ten {
-  width: 83.33333%; }
+  width: 82.64463%; }
 
 .eleven {
-  width: 91.66666%; }
+  width: 90.90909%; }
 
 .twelve {
-  width: 100.0%; }
+  width: 99.17355%; }
 
 .offset-one {
-  margin-left: 8.33333%; }
+  margin-left: 8.26446%; }
 
 .offset-two {
-  margin-left: 16.66667%; }
+  margin-left: 16.52893%; }
 
 .offset-three {
-  margin-left: 25.0%; }
+  margin-left: 24.79339%; }
 
 .offset-four {
-  margin-left: 33.33333%; }
+  margin-left: 33.05785%; }
 
 .offset-five {
-  margin-left: 41.66666%; }
+  margin-left: 41.32231%; }
 
 .offset-six {
-  margin-left: 50.0%; }
+  margin-left: 49.58678%; }
 
 .offset-seven {
-  margin-left: 58.33333%; }
+  margin-left: 57.85124%; }
 
 .offset-eight {
-  margin-left: 66.66666%; }
+  margin-left: 66.1157%; }
 
 .offset-nine {
-  margin-left: 75.0%; }
+  margin-left: 74.38017%; }
 
 .offset-ten {
-  margin-left: 83.33333%; }
+  margin-left: 82.64463%; }
 
 .offset-eleven {
-  margin-left: 91.66666%; }
+  margin-left: 90.90909%; }
 
 .offset-twelve {
-  margin-left: 100.0%; }
+  margin-left: 99.17355%; }
 
 .pull-right {
   float: right; }
@@ -513,76 +513,76 @@ table {
 
 @media only screen and (min-width: 481px) {
   .tablet-one {
-    width: 8.33333%; }
+    width: 8.26446%; }
 
   .tablet-two {
-    width: 16.66667%; }
+    width: 16.52893%; }
 
   .tablet-three {
-    width: 25.0%; }
+    width: 24.79339%; }
 
   .tablet-four {
-    width: 33.33333%; }
+    width: 33.05785%; }
 
   .tablet-five {
-    width: 41.66666%; }
+    width: 41.32231%; }
 
   .tablet-six {
-    width: 50.0%; }
+    width: 49.58678%; }
 
   .tablet-seven {
-    width: 58.33333%; }
+    width: 57.85124%; }
 
   .tablet-eight {
-    width: 66.66666%; }
+    width: 66.1157%; }
 
   .tablet-nine {
-    width: 75.0%; }
+    width: 74.38017%; }
 
   .tablet-ten {
-    width: 83.33333%; }
+    width: 82.64463%; }
 
   .tablet-eleven {
-    width: 91.66666%; }
+    width: 90.90909%; }
 
   .tablet-twelve {
-    width: 100.0%; }
+    width: 99.17355%; }
 
   .tablet-offset-one {
-    margin-left: 8.33333%; }
+    margin-left: 8.26446%; }
 
   .tablet-offset-two {
-    margin-left: 16.66667%; }
+    margin-left: 16.52893%; }
 
   .tablet-offset-three {
-    margin-left: 25.0%; }
+    margin-left: 24.79339%; }
 
   .tablet-offset-four {
-    margin-left: 33.33333%; }
+    margin-left: 33.05785%; }
 
   .tablet-offset-five {
-    margin-left: 41.66666%; }
+    margin-left: 41.32231%; }
 
   .tablet-offset-six {
-    margin-left: 50.0%; }
+    margin-left: 49.58678%; }
 
   .tablet-offset-seven {
-    margin-left: 58.33333%; }
+    margin-left: 57.85124%; }
 
   .tablet-offset-eight {
-    margin-left: 66.66666%; }
+    margin-left: 66.1157%; }
 
   .tablet-offset-nine {
-    margin-left: 75.0%; }
+    margin-left: 74.38017%; }
 
   .tablet-offset-ten {
-    margin-left: 83.33333%; }
+    margin-left: 82.64463%; }
 
   .tablet-offset-eleven {
-    margin-left: 91.66666%; }
+    margin-left: 90.90909%; }
 
   .tablet-offset-twelve {
-    margin-left: 100.0%; }
+    margin-left: 99.17355%; }
 
   .tablet-pull-right {
     float: right; }
@@ -591,76 +591,76 @@ table {
     float: left; } }
 @media only screen and (min-width: 768px) {
   .laptop-one {
-    width: 8.33333%; }
+    width: 8.26446%; }
 
   .laptop-two {
-    width: 16.66667%; }
+    width: 16.52893%; }
 
   .laptop-three {
-    width: 25.0%; }
+    width: 24.79339%; }
 
   .laptop-four {
-    width: 33.33333%; }
+    width: 33.05785%; }
 
   .laptop-five {
-    width: 41.66666%; }
+    width: 41.32231%; }
 
   .laptop-six {
-    width: 50.0%; }
+    width: 49.58678%; }
 
   .laptop-seven {
-    width: 58.33333%; }
+    width: 57.85124%; }
 
   .laptop-eight {
-    width: 66.66666%; }
+    width: 66.1157%; }
 
   .laptop-nine {
-    width: 75.0%; }
+    width: 74.38017%; }
 
   .laptop-ten {
-    width: 83.33333%; }
+    width: 82.64463%; }
 
   .laptop-eleven {
-    width: 91.66666%; }
+    width: 90.90909%; }
 
   .laptop-twelve {
-    width: 100.0%; }
+    width: 99.17355%; }
 
   .laptop-offset-one {
-    margin-left: 8.33333%; }
+    margin-left: 8.26446%; }
 
   .laptop-offset-two {
-    margin-left: 16.66667%; }
+    margin-left: 16.52893%; }
 
   .laptop-offset-three {
-    margin-left: 25.0%; }
+    margin-left: 24.79339%; }
 
   .laptop-offset-four {
-    margin-left: 33.33333%; }
+    margin-left: 33.05785%; }
 
   .laptop-offset-five {
-    margin-left: 41.66666%; }
+    margin-left: 41.32231%; }
 
   .laptop-offset-six {
-    margin-left: 50.0%; }
+    margin-left: 49.58678%; }
 
   .laptop-offset-seven {
-    margin-left: 58.33333%; }
+    margin-left: 57.85124%; }
 
   .laptop-offset-eight {
-    margin-left: 66.66666%; }
+    margin-left: 66.1157%; }
 
   .laptop-offset-nine {
-    margin-left: 75.0%; }
+    margin-left: 74.38017%; }
 
   .laptop-offset-ten {
-    margin-left: 83.33333%; }
+    margin-left: 82.64463%; }
 
   .laptop-offset-eleven {
-    margin-left: 91.66666%; }
+    margin-left: 90.90909%; }
 
   .laptop-offset-twelve {
-    margin-left: 100.0%; }
+    margin-left: 99.17355%; }
 
   .laptop-pull-right {
     float: right; }
@@ -669,76 +669,76 @@ table {
     float: left; } }
 @media only screen and (min-width: 1024px) {
   .desk-one {
-    width: 8.33333%; }
+    width: 8.26446%; }
 
   .desk-two {
-    width: 16.66667%; }
+    width: 16.52893%; }
 
   .desk-three {
-    width: 25.0%; }
+    width: 24.79339%; }
 
   .desk-four {
-    width: 33.33333%; }
+    width: 33.05785%; }
 
   .desk-five {
-    width: 41.66666%; }
+    width: 41.32231%; }
 
   .desk-six {
-    width: 50.0%; }
+    width: 49.58678%; }
 
   .desk-seven {
-    width: 58.33333%; }
+    width: 57.85124%; }
 
   .desk-eight {
-    width: 66.66666%; }
+    width: 66.1157%; }
 
   .desk-nine {
-    width: 75.0%; }
+    width: 74.38017%; }
 
   .desk-ten {
-    width: 83.33333%; }
+    width: 82.64463%; }
 
   .desk-eleven {
-    width: 91.66666%; }
+    width: 90.90909%; }
 
   .desk-twelve {
-    width: 100.0%; }
+    width: 99.17355%; }
 
   .desk-offset-one {
-    margin-left: 8.33333%; }
+    margin-left: 8.26446%; }
 
   .desk-offset-two {
-    margin-left: 16.66667%; }
+    margin-left: 16.52893%; }
 
   .desk-offset-three {
-    margin-left: 25.0%; }
+    margin-left: 24.79339%; }
 
   .desk-offset-four {
-    margin-left: 33.33333%; }
+    margin-left: 33.05785%; }
 
   .desk-offset-five {
-    margin-left: 41.66666%; }
+    margin-left: 41.32231%; }
 
   .desk-offset-six {
-    margin-left: 50.0%; }
+    margin-left: 49.58678%; }
 
   .desk-offset-seven {
-    margin-left: 58.33333%; }
+    margin-left: 57.85124%; }
 
   .desk-offset-eight {
-    margin-left: 66.66666%; }
+    margin-left: 66.1157%; }
 
   .desk-offset-nine {
-    margin-left: 75.0%; }
+    margin-left: 74.38017%; }
 
   .desk-offset-ten {
-    margin-left: 83.33333%; }
+    margin-left: 82.64463%; }
 
   .desk-offset-eleven {
-    margin-left: 91.66666%; }
+    margin-left: 90.90909%; }
 
   .desk-offset-twelve {
-    margin-left: 100.0%; }
+    margin-left: 99.17355%; }
 
   .desk-pull-right {
     float: right; }

@@ -1,0 +1,16 @@
+
+// =======================
+// Seamless
+// =======================
+$one: 8.333333%; // 100/12  // the width of one column
+
+
+// =======================
+// Breakpoints
+// =======================
+$tablet-start:         481px!default;
+$laptop-start:         768px!default;
+$desk-start:           1024px!default;
+$desk-wide-start:      1200px!default;
+
+// $tablet-end:     	   $laptop-start - 1px; // example breackpoint end variable, use with caution — breaks your progressively enhanced mobile first goodness

@@ -2,10 +2,18 @@
    Seamless
    ========================================================================== */
 
-%grid{
-    float: left;
-    padding-left: 0.75em;
-    padding-right: 0.75em;
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.container-small{
+    @extend .container;
+    @media (min-width: $laptop-start) {
+        width: 45%;
+    }
+}
+.row{
+    clear: both;
 }
 .one, .two, .three,
 .four, .five, .six,
@@ -20,6 +28,11 @@
     }
 }
 @mixin grid-setup($namespace: "") {
+    %grid{
+        float: left;
+        padding-left: .75em;
+        padding-right: .75em;
+    }
     // main widths
     .#{$namespace}one            { @extend %grid; width:$one ; }
     .#{$namespace}two            { @extend %grid; width:$one * 2; }
